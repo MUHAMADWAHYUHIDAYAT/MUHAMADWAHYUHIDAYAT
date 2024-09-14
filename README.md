@@ -19,6 +19,6 @@ I'm like alone 😔, want you be my friend at github.com ??
 </head>
 <body>
     <h1>Halo, Dunia!</h1>
-    <p>Ini adalah paragraf pertamaku.</p>
+    <p>aku sedang mempelajari GitHub dengan dasar dasarnya.</p>
 </body>
 </html>
