@@ -10,15 +10,13 @@
 MUHAMADWAHYUHIDAYAT/MUHAMADWAHYUHIDAYAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm like alone 😔, want you be my friend at github.com ??
-
 <!DOCTYPE html>
 <html>
 <head>
-    <title Kamu adalah cintaku </title>
+    <title>you're my true love</title>
 </head>
 <body>
-    <h1>Halo, Dunia!</h1>
-    <p>aku sedang mempelajari GitHub dengan dasar dasarnya.</p>
+    <h1>Halo, Dear!</h1>
+    <p>give me a kiss.</p>
 </body>
 </html>
