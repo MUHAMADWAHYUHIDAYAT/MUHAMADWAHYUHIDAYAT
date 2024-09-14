@@ -11,3 +11,14 @@ MUHAMADWAHYUHIDAYAT/MUHAMADWAHYUHIDAYAT is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 I'm like alone 😔, want you be my friend at github.com ??
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Halaman HTML Pertamaku</title>
+</head>
+<body>
+    <h1>Halo, Dunia!</h1>
+    <p>Ini adalah paragraf pertamaku.</p>
+</body>
+</html>
