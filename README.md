@@ -15,7 +15,7 @@ I'm like alone 😔, want you be my friend at github.com ??
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Halaman HTML Pertamaku</title>
+    <title Kamu adalah cintaku </title>
 </head>
 <body>
     <h1>Halo, Dunia!</h1>
